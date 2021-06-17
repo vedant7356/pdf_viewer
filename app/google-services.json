@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087610835831",
+    "project_id": "pdfviewerurl",
+    "storage_bucket": "pdfviewerurl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087610835831:android:cada8ca2d0a188a81ac772",
+        "android_client_info": {
+          "package_name": "com.example.view_only_pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087610835831-mm6s4q2lcr4l7qtv0d1c3kqrhd0rbt9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPnQlNRTEVOBfKHtqZqEoabfyO53bUBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087610835831-mm6s4q2lcr4l7qtv0d1c3kqrhd0rbt9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
